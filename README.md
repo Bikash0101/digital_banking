@@ -35,5 +35,5 @@ Bikash Khadka, Aayush Sapkota, Anju Thapaliya, Bhupendra Singh Thapa
 ## Course
 
 Computer Programming I (CT 401) | First Year, First Part  
-Department of Electronics and Computer Engineering  
+Department of Civil Engineering, Pulchowk Campus
 Tribhuvan University, 2077 B.S.
