@@ -1,5 +1,5 @@
 ﻿# digital_banking
-# Digital Banking System — C Programming
+# Digital Banking System: C Programming
 
 A console-based digital banking application developed in C as a 
 first-year course project for Computer Programming I (CT 401), 
@@ -24,14 +24,13 @@ B.E. Civil Engineering, Pulchowk Campus, Tribhuvan University.
 ## Limitations
 
 - Non-graphical console interface
-- No pointer usage
 - Money transfer is one-directional (send only, no receive)
 - Complaint submissions are not routed anywhere (practice only)
 
 ## Team
 
-Aayush Sapkota, Anju Thapaliya, Bhupendra Singh Thapa, Bikash Khadka  
-077BCE — Civil Engineering Batch, IoE Pulchowk Campus
+Bikash Khadka, Aayush Sapkota, Anju Thapaliya, Bhupendra Singh Thapa
+077BCE: Civil Engineering Batch, IoE Pulchowk Campus
 
 ## Course
 
